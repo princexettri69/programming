@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>Itahari Eatery - Home</title>
+</head>
+
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to Itahari Eatery</h1>
+        <p>Experience the finest dining in Itahari, Nepal</p>
+    </header>
+
+    <!-- Navigation Section -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="menu.html">Menu</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="ambience.html">ambience</a></li>
+            <li><a href="specialties.html">specialties</a> </li>
+            <li><a href="reservation.html">Reservation</a> </li>
+        </ul>
+    </nav>
+
+    <!-- Main Content Section -->
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>Itahari Eatery is a cozy restaurant located in the heart of Itahari, offering a delightful dining
+                experience with a blend of local and international cuisines.</p>
+            <p>Join us for an unforgettable culinary journey!</p>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2023 Itahari Eatery. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
